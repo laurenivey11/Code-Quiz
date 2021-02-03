@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 20px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#startQuiz h1 {
+    flex: 1 100%;
+    padding: 15px 20px;
+}
+#startQuiz p {
+    flex: 1 100%;
+    font-size: larger;
+    padding: 15px 20px 30px 20px;
+}
+.btn {
+    color: white;
+    background-color: blueviolet;
+    padding: 15px 20px;
+}
+
+section h2 {
+    flex: 1 100%;
+    padding: 15px 20px;
+}
+section li {
+    color: white;
+    background-color: blueviolet;
+    padding: 15px 20px;
+}
+.question {
+    padding: 20px;
+    flex: 1 100%;
+}
+
+.answers {
+    display: flex;
+    justify-content: space-between;
+    flex: 2 100%;
+}
+
