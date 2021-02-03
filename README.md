@@ -10,7 +10,7 @@ Simple true or false quiz that keeps score of the questions you answer correctly
 
 ## Website
  https://laurenivey11.github.io/Code-Quiz/
-![Password Gen](Capture.PNG)
+![Coding Quiz](Capture.PNG)
 
 
 ##Contribution
